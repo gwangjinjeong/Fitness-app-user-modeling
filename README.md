@@ -1,4 +1,4 @@
-# Extract-Important-Question
+# Fitness app user modeling
 ## 1.	연구 목적
 본 연구의 목적은 총 106개의 문항과1,497명의 응답을 토대로 ‘운동/다이어트앱 이용 여부’를 예측모델의 구현을 위해, 어떤 문항이 영향력((Influential factor)의 우선순위가 높은지를 찾아내는데 있다.  
 
